@@ -6,7 +6,7 @@ My group and I chose to make a database that used movies made after 2000 and had
 We started by creating the ERD diagram and had multiple revisions during this project.
 Our database features 9 individual tables and makes use of one-to-many relationships.
 
-I contributed by sorting and inserting the data. By doing this I learned how to forward engineer a database and ensure the integrity of it. 
+I contributed by sorting and inserting the data. I also worked with a group member to insert the views and to assign the necessary fields primary and foreign keys. By doing this I learned how to forward engineer a database and ensure the integrity of it. 
 I also learned how to create a database that adheres to professional guidelines by following 1st, 2nd, and 3rd Normal Forms.
 
 The files included in this repository are the submission files for the project.
